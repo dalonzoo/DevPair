@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevPair</string>
+    <string name="home_title">DevPair</string>
+    <string name="home_subtitle">Offline Pair Programming</string>
+    <string name="quick_match">Quick Match</string>
+    <string name="profile">Profile</string>
+    <string name="history">History</string>
+    
+    <string name="match_title">Create Session</string>
+    <string name="language">Language</string>
+    <string name="duration">Duration (minutes)</string>
+    <string name="create_session">Create &amp; Start</string>
+    
+    <string name="room_title">Session Room</string>
+    <string name="type_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="waiting_partner">Waiting for partner…</string>
+    <string name="session_ongoing">Session Ongoing</string>
+    <string name="session_finished">Session Finished</string>
+    
+    <string name="profile_title">Profile</string>
+    <string name="all_users">All Users</string>
+    
+    <string name="minutes_short">min</string>
+    <string name="level_junior">Junior</string>
+    <string name="level_mid">Mid</string>
+    <string name="level_senior">Senior</string>
+</resources>
